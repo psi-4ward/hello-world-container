@@ -9,5 +9,5 @@ Simple Hello World Container
 
 ### Usage
 ```
-docker run -p 0.0.0.0:9000:9000 psi-4ward/hello-world
+docker run -p 0.0.0.0:9000:9000 psitrax/hello-world
 ```
