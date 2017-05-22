@@ -1,11 +1,13 @@
 # Hello World Container
 
+[![Image Size](https://images.microbadger.com/badges/image/psitrax/psitransfer.svg)](https://microbadger.com/images/psitrax/psitransfer)
+
 Simple Hello World Container
 
-* Outputs Headers, $_SERVER, $_GET, $_POST for every request
+* Outputs Headers, `$_SERVER`, `$_GET`, `$_POST` for every request
 * Based on php:7-alpine
 
-![Screen](hello-world.png)
+![Screen](https://raw.githubusercontent.com/psi-4ward/hello-world-container/master/hello-world.png)
 
 ### Usage
 ```
