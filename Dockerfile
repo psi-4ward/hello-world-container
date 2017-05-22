@@ -1,6 +1,6 @@
 FROM php:7-alpine
 
-ENV REFRESHED_AT="2016-04-06"
+ENV REFRESHED_AT="2017-05-22"
 MAINTAINER Christoph Wiechert <wio@psitrax.de>
 
 ADD docroot /docroot
