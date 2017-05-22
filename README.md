@@ -1,6 +1,7 @@
 # Hello World Container
 
-[![Image Size](https://images.microbadger.com/badges/image/psitrax/psitransfer.svg)](https://microbadger.com/images/psitrax/psitransfer)
+[![Image Size](https://images.microbadger.com/badges/image/psitrax/hello-world.svg)](https://microbadger.com/images/psitrax/hello-world)
+[![Docker Automated buil](https://img.shields.io/docker/automated/psitrax/hello-world.svg)](https://hub.docker.com/r/psitrax/hello-world/)
 
 Simple Hello World Container
 
