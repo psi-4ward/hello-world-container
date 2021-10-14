@@ -39,7 +39,7 @@ body {
 </div>
 <div class="container">
   <div class="row">
-    <div class="col-xs-6">
+    <div class="col-6">
       <div class="panel panel-primary">
         <div class="panel-heading">
           Request HEADER
@@ -49,7 +49,7 @@ body {
         </div>
       </div>
     </div>
-    <div class="col-xs-6">
+    <div class="col-6">
       <div class="panel panel-primary">
         <div class="panel-heading">
           $_SERVER
@@ -61,7 +61,7 @@ body {
     </div>
   </div>
   <div class="row">
-    <div class="col-xs-6">
+    <div class="col-6">
       <div class="panel panel-primary">
         <div class="panel-heading">
           $_GET
@@ -71,7 +71,7 @@ body {
         </div>
       </div>
     </div>
-    <div class="col-xs-6">
+    <div class="col-6">
       <div class="panel panel-primary">
         <div class="panel-heading">
           $_POST
